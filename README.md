@@ -1,4 +1,4 @@
-# django
+# Django
 Create Virtual Environment
 - python -m venv Env
 - Env\Scripts\activate.bat
